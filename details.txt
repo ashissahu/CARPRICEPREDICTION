@@ -1,0 +1,20 @@
+TASK
+=====
+Predict the Sell Price for the car
+
+Task Details
+Predict the best equation for Sell Price for the car using the any of available datasets
+
+
+
+1.creating own environment
+conda create -n carpriceprediction python=3.6
+activate carpriceprediction 
+
+2.jupyter notebook
+3. creating requirement file
+
+conda info --envs
+activate carpriceprediction
+cd C:\Users\Ad\projects\END-to-END deployment\CAR_PRICE _PREDICTION 
+pip freeze>requirements.txt
