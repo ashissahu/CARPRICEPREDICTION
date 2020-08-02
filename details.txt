@@ -18,3 +18,5 @@ conda info --envs
 activate carpriceprediction
 cd C:\Users\Ad\projects\END-to-END deployment\CAR_PRICE _PREDICTION 
 pip freeze>requirements.txt
+
+https://mycarpriceprediction.herokuapp.com/predict
