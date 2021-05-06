@@ -38,7 +38,7 @@ Cython==0.28.2
 cytoolz==0.9.0.1
 filelock==3.0.4
 Flask==1.0.2
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 grpcio==1.27.2
 gunicorn==20.0.4
 h5py==2.7.1
